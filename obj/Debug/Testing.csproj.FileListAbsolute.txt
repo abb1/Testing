@@ -1,0 +1,21 @@
+C:\Testing\Testing\bin\Debug\Testing.exe.config
+C:\Testing\Testing\obj\Debug\Testing.Form1.resources
+C:\Testing\Testing\obj\Debug\Testing.Properties.Resources.resources
+C:\Testing\Testing\obj\Debug\Testing.csproj.GenerateResource.Cache
+C:\Testing\Testing\bin\Debug\Testing.exe
+C:\Testing\Testing\bin\Debug\Testing.pdb
+C:\Testing\Testing\obj\Debug\Testing.exe
+C:\Testing\Testing\obj\Debug\Testing.pdb
+C:\Testing\Testing\obj\Debug\Testing.Form2.resources
+C:\old data\BackUp\Testing\Testing\obj\Debug\Testing.Form1.resources
+C:\old data\BackUp\Testing\Testing\obj\Debug\Testing.Form2.resources
+C:\old data\BackUp\Testing\Testing\obj\Debug\Testing.Properties.Resources.resources
+C:\old data\BackUp\Testing\Testing\obj\Debug\Testing.csproj.GenerateResource.Cache
+C:\old data\BackUp\Testing\Testing\bin\Debug\Testing.exe.config
+C:\old data\BackUp\Testing\Testing\bin\Debug\Testing.exe
+C:\old data\BackUp\Testing\Testing\bin\Debug\Testing.pdb
+C:\old data\BackUp\Testing\Testing\obj\Debug\Testing.exe
+C:\old data\BackUp\Testing\Testing\obj\Debug\Testing.pdb
+C:\old data\BackUp\Testing\Testing\bin\Debug\Delimon.Win32.IO.dll
+C:\old data\BackUp\Testing\Testing\bin\Debug\Compression.dll
+C:\old data\BackUp\Testing\Testing\obj\Debug\Testing.csprojResolveAssemblyReference.cache
